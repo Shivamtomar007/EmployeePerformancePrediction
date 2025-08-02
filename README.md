@@ -76,7 +76,7 @@ EMPLOYEEPERFORMANCEPREDICTION/
 **1️⃣ Clone the repository**
 
 ```bash
-git clone "ur"
+git clone https://github.com/Shivamtomar007/EmployeePerformancePrediction.git
 ```
 
 **2️⃣ (Optional) Create virtual environment**
