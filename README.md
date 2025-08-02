@@ -10,7 +10,7 @@ The goal:
 ✅ Provide quick predictions via a web interface
 📊 Dataset
 The dataset used link: https://www.kaggle.com/datasets/utkarshsarbahi/productivity-prediction-of-garment-employees
-# Includes:
+Includes:
 Department, day, team, and targeted productivity
 Actual productivity
 Factors like work hours, breaks, and more
